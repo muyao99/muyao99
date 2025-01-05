@@ -22,8 +22,8 @@
 
 ##  🤺 About Me
 
-<p>&emsp;&emsp;Hi! I am Peng Muyao. I am now purchasing my Ph. D degree at Huazhong University of Science and Technology.</p>
-<p>&emsp;&emsp;My study interests include deep learning, computer vision, visual localization, image to point clouds registration.</p>
+<p>&emsp;&emsp;Hi! My name is Peng Muyao. I am currently pursuing my Ph.D. degree at Huazhong University of Science and Technology.</p>
+<p>&emsp;&emsp;My research interests include deep learning, computer vision, visual localization, and image-to-point cloud registration.</p>
 
 
   <!-- for beauty 留个空行好看点 -->
