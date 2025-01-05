@@ -37,15 +37,15 @@
 
 - Xidian University &emsp; 📌 2017-09 —— 2021-06
 
-  - Bachelor Degree
+  - B.S., Information Engineering
 
 - Xidian University  📌 2021-07 —— 2024-06
 
-  - Master Degree
+  - Master Degree, Communication Engineering
 
 - Huazhong University of Science and Technology  📌 2024-04 ——
 
-  - Ph. D Degree
+  - Ph.D.
 
 
   <!-- for beauty 留个空行好看点 -->
