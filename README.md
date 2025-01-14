@@ -58,8 +58,7 @@
 ## 🏢 My Papers
 
 - TFCT-I2P: Three stream fusion network with color aware transformer for image-to-point cloud registration.(arxiv Preprint)
-  - [Paper](https://arxiv.org/abs/2410.00360)
-  - [Code](https://github.com/muyao99/TFCT-I2P)
+  - [[Paper](https://arxiv.org/abs/2410.00360)] [[Code](https://github.com/muyao99/TFCT-I2P)]
 
 
   <!-- for beauty 留个空行好看点 -->
