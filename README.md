@@ -57,8 +57,10 @@
 
 ## 🏢 My Papers
 
-- TFCT-I2P: Three stream fusion network with color aware transformer for image-to-point cloud registration.(arxiv Preprint)
+- TFCT-I2P: Three stream fusion network with color aware transformer for image-to-point cloud registration. (arxiv Preprint)
   - [[Paper](https://arxiv.org/abs/2410.00360)] [[Code](https://github.com/muyao99/TFCT-I2P)]
+- LDF-I2P: Learning Discriminative Cross-Modality Features for image-to-point cloud registration. (IEEE T-IM)
+  - [[Paper]([https://arxiv.org/abs/2410.00360](https://ieeexplore.ieee.org/abstract/document/11134139))]
 
 
   <!-- for beauty 留个空行好看点 -->
