@@ -54,34 +54,3 @@
 </td></tr>
 
 <tr><td>
-
-## 🏢 My Papers
-
-- TFCT-I2P: Three stream fusion network with color aware transformer for image-to-point cloud registration. (arxiv Preprint)
-  - [[Paper](https://arxiv.org/abs/2410.00360)] [[Code](https://github.com/muyao99/TFCT-I2P)]
-- LDF-I2P: Learning Discriminative Cross-Modality Features for image-to-point cloud registration. (IEEE T-IM)
-  - [[Paper](https://ieeexplore.ieee.org/abstract/document/11134139)]
-
-
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-  
-</td></tr>
-
-## 📊 GitHub Data Analysis
-
-<!-- GitHub 数据统计 -->
-
-<img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muyao99&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=muyao99&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muyao99&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=muyao99&theme=tokyo-night" />
-      </picture>
-  </tr>
-</table>
